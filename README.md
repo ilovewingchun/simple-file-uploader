@@ -21,8 +21,11 @@ The Simple File Uploader is a lightweight PHP script that allows users to quickl
 
 ## Examples
 ![image](https://github.com/ilovewingchun/simple-file-uploader/blob/main/%E6%88%AA%E5%9C%96%202023-06-14%20%E4%B8%8B%E5%8D%884.15.43.png)
+
 ![image](https://github.com/ilovewingchun/simple-file-uploader/blob/main/%E6%88%AA%E5%9C%96%202023-06-14%20%E4%B8%8B%E5%8D%884.16.20.png)
+
 ![image](https://github.com/ilovewingchun/simple-file-uploader/blob/main/%E6%88%AA%E5%9C%96%202023-06-14%20%E4%B8%8B%E5%8D%884.16.29.png)
+
 
 
 ## Turning Off the Script

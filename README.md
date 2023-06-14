@@ -10,10 +10,10 @@ The Simple File Uploader is a lightweight PHP script that allows users to quickl
 
 ## Usage
 
-1. Download the `uploader.php` file from this repository.
-2. Place the `uploader.php` file in your web server directory.
+1. Download the `simple_file_uploader.php` file from this repository.
+2. Place the `simple_file_uploader.php` file in your web server directory.
 3. Ensure that the web server has write permissions to the directory where uploaded files will be stored.
-4. Access the `uploader.php` script through a web browser.
+4. Access the `simple_file_uploader.php` script through a web browser.
 5. Click on the "Choose File" button to select a file from your local system.
 6. Click the "Upload" button to initiate the file upload process.
 7. After the upload completes, you will see a success message with the unique filename assigned to the uploaded file.

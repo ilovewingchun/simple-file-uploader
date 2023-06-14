@@ -19,6 +19,10 @@ The Simple File Uploader is a lightweight PHP script that allows users to quickl
 7. After the upload completes, you will see a success message with the unique filename assigned to the uploaded file.
 8. Feel free to upload additional files by repeating steps 5-7.
 
+## Examples
+
+
+
 ## Turning Off the Script
 
 It is recommended to turn off the file uploader when not in use to prevent unauthorized access or misuse.
